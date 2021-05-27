@@ -1,4 +1,5 @@
 # DVP-Edu
+Title stands for "Data Visualization Projects-Educational
 Educational Python projects for data visualization.
 
 
